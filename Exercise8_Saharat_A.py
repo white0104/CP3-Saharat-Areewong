@@ -1,6 +1,6 @@
 usernameInput = input("UserName :")
 passwordInput = input("Password :")
-if usernameInput == "Saharat" and passwordInput == "123" :
+if usernameInput == "saharat" and passwordInput == "123" :
     print("----Welcome Saharat-----")
     Water = 12
     banana = 10
