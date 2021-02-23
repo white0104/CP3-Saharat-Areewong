@@ -1,0 +1,5 @@
+วาง folder ไว้ที่ 
+C:\Program Files\BillRamen
+
+เปิดไฟล์ MainRamen ที่
+C:\Program Files\BillRamen\code\MainRamen.py
